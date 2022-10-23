@@ -38,3 +38,4 @@ ____
 - Modelling using SKlearn's simple models such as Logistic Regression,KNN,SVC,DTC.
 - Ensemble models using VotingClassier
 - Modelling using Bagging and Boosting Techniques.
+- (Upcoming)-Handling Imbalance Dataset using SMOTE
